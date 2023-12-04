@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="net.htmlparser.jericho.CharacterReference"/>
+    <fullyQualifiedTypeName name="jsoft.library.Utilities_Date"/>
+    <fullyQualifiedTypeName name="jsoft.library.Utilities_Text"/>
+    <fullyQualifiedTypeName name="jsoft.objects.CategoryOject"/>
+    <fullyQualifiedTypeName name="jsoft.ads.section.SectionControl"/>
+    <fullyQualifiedTypeName name="jsoft.objects.SectionObject"/>
+    <fullyQualifiedTypeName name="org.javatuples.Quartet"/>
+    <fullyQualifiedTypeName name="jsoft.ads.section.SECTION_SORT"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="jsoft.ads.user.UserLibrary"/>
+    <fullyQualifiedTypeName name="jsoft.library.Utilities"/>
+    <fullyQualifiedTypeName name="jsoft.objects.UserObject"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="org.javatuples.Triplet"/>
+    <fullyQualifiedTypeName name="jsoft.objects.ArticleExtendsObject"/>
+    <fullyQualifiedTypeName name="jsoft.gui.basic.BasicImpl"/>
+    <fullyQualifiedTypeName name="jsoft.ConnectionPool"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="jsoft.objects.ArticleOject"/>
+</qualifiedTypeNameHistroy>
